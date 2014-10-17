@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lvk:home|Door43 (lvk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lvk|d43-lvk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lvk/archive/master.zip|d43-lvk.zip]]
+
+**Recent Changes**
+{{changes>ns = lvk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lvk|Ethnologue data]]
+
